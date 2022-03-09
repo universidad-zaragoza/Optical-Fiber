@@ -5,7 +5,7 @@ The following notes written by SERGIO G RODRIGO (2021-2022)</font>
 
 ---
 ---
-
+# Phyton files
   **Step-profile Optical Fiber class (OFiber_class.py):**
 
   The object catch the main characteristics of a step-profile optical fiber. The notation is
@@ -35,7 +35,22 @@ The following notes written by SERGIO G RODRIGO (2021-2022)</font>
    Specific methods for plotting the results.  
 
 
----------------------------------------------------------------------------
+---
+---
+
+
+# Jupyter notebooks
+**ofiber_plot_dispersion_relation.ipynb**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universidad-zaragoza/Optical-Fiber/colabtools/blob/master/ofiber_plot_dispersion_relation.ipynb)
++ Plot dispsersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1}$ and $\lambda (nm)$ vs $\beta(\mu m^{-1}$.
+
++ Two examples are provided: 
+ - High index contrast optical fiber ($n_{co}$ >> $n_{cl}$) to compare with Fig. 12-4 Snyder & Love (see fig12-4_Snyder_Love.csv)
+ - Weak guidance example ($\Delta \lll 1$) to compare with Fig. 14-4 Snyder & Love (see weak_fig14-4_Snyder_Love.csv)
+
+
+---
+---
 
 License:
 Copyright (C) 2022 Sergio G Rodrigo sergut@unizar.es
