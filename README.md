@@ -21,7 +21,7 @@ sergut@unizar.es
 ---
 ---
 
-# Phyton files
+# Python files
   **Step-profile Optical Fiber class (OFiber_class.py):**
 
   The class contain the main modal properties of a step-profile optical fiber. We followed the notation from Snyder&Love book is followed ("Optical Waveguide Theory", A.W. Snyder and J. Love Springer, Boston, MA (1983) 1st Ed (https://doi.org/10.1007/978-1-4613-2813-1).
@@ -48,14 +48,17 @@ sergut@unizar.es
 ---
 
 # Jupyter notebooks
++ Two examples are provided: 
+ - High index contrast optical fiber ($n_{co}$ >> $n_{cl}$) to compare with Fig. 12-4 Snyder & Love (see fig12-4_Snyder_Love.csv)
+ - Weak guidance example ($n_{co}$ ≈ $n_{cl}$) to compare with Fig. 14-4 Snyder & Love (see fig14-4_Snyder_Love.csv)
+
 **ofiber_plot_dispersion_relation.ipynb**
 
-+ Plot dispersion relation either as: U vs V, frequency vs wavevector and wavelength vs wavevector.
++ Plot dispersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1})$ and $\lambda (nm)$ vs $\beta(\mu m^{-1})$, following the analytical expressions in *Snyder & Love, Section 12-8 Table 12-4*
 
-+ Two examples are provided: 
- - High index contrast optical fiber  to compare with Fig. 12-4 Snyder & Love (see fig12-4_Snyder_Love.csv)
- - Weak guidance example to compare with Fig. 14-4 Snyder & Love (see weak_fig14-4_Snyder_Love.csv)
+**ofiber_em_fields.ipynb**
 
++ Plot the electromagnetic modes of a step-profile optical fiber following the analytical expressions in *Snyder & Love, Section 12-8 Table 12-3*. 
 
 ---
 ---
