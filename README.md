@@ -43,11 +43,11 @@ The following notes written by SERGIO G RODRIGO (2021-2022)</font>
 **ofiber_plot_dispersion_relation.ipynb**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universidad-zaragoza/Optical-Fiber/blob/main/ofiber_plot_dispersion_relation.ipynb)
-+ Plot dispsersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1}$ and $\lambda (nm)$ vs $\beta(\mu m^{-1}$.
++ Plot dispsersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1})$ and $\lambda (nm)$ vs $\beta(\mu m^{-1})$.
 
 + Two examples are provided: 
  - High index contrast optical fiber ($n_{co}$ >> $n_{cl}$) to compare with Fig. 12-4 Snyder & Love (see fig12-4_Snyder_Love.csv)
- - Weak guidance example ($\Delta \lll 1$) to compare with Fig. 14-4 Snyder & Love (see weak_fig14-4_Snyder_Love.csv)
+ - Weak guidance example ($n_{co}$ ≈ $n_{cl}$) to compare with Fig. 14-4 Snyder & Love (see weak_fig14-4_Snyder_Love.csv)
 
 
 ---
