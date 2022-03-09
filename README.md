@@ -41,7 +41,8 @@ The following notes written by SERGIO G RODRIGO (2021-2022)</font>
 
 # Jupyter notebooks
 **ofiber_plot_dispersion_relation.ipynb**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universidad-zaragoza/Optical-Fiber/colabtools/blob/master/ofiber_plot_dispersion_relation.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universidad-zaragoza/Optical-Fiber/blob/main/ofiber_plot_dispersion_relation.ipynb)
 + Plot dispsersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1}$ and $\lambda (nm)$ vs $\beta(\mu m^{-1}$.
 
 + Two examples are provided: 
