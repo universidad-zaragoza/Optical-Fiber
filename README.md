@@ -61,6 +61,9 @@ sergut@unizar.es
 + Plot the electromagnetic modes of a step-profile optical fiber following the analytical expressions in *Snyder & Love, Section 12-8 Table 12-3*. 
 + Plot the fraction of power in the core of a step-profile optical fiber. It takes analytical expressions applied to several modes. The power for the electromagnetic mode chosen for plotting is also calculated from the its electromagnetic fields.
 
+**ofiber_modal_properties.ipynb**
++ Several modal properties of the step-profile fiber from analytical expressions in Snyder&Love, Section 12-10 Table 12-5. Namely, fraction of power in the core and group velocity can be obtained.
+
 ---
 ---
 
