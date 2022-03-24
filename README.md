@@ -52,6 +52,9 @@ sergut@unizar.es
  - High index contrast optical fiber ($n_{co}$ >> $n_{cl}$) to compare with Fig. 12-4 Snyder & Love (see fig12-4_Snyder_Love.csv)
  - Weak guidance example ($n_{co}$ ≈ $n_{cl}$) to compare with Fig. 14-4 Snyder & Love (see fig14-4_Snyder_Love.csv)
 
+**ofiber_calc_dispersion_relation.ipynb**
++ Solver of the eigenvalue equations for the step-profile fiber from Snyder&Love, Section 12-9 Table 12-4. 
+
 **ofiber_plot_dispersion_relation.ipynb**
 
 + Plot dispersion relation either as: $U$ vs $V$, $\omega (eV)$ vs $\beta(\mu m^{-1})$ and $\lambda (nm)$ vs $\beta(\mu m^{-1})$, following the analytical expressions in *Snyder & Love, Section 12-8 Table 12-4*
